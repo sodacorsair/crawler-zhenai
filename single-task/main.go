@@ -1,4 +1,4 @@
-package main
+package single_task
 
 import (
 	"github.com/Eru/crawler/engine"
