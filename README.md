@@ -9,7 +9,7 @@ So far the website has some registering windows bouncing, the original http.Get 
 ### to-do
 
 - Use css query selector or xpath to crawl more webpages
-- Chanllege the anti-webspider technologies and observe robots protocols
+- Challege the anti-webspider technologies and observe robots protocols
 - Simulate login to crawl active webpages
 - Distributed deduplication (use RPC to package)
 - Optimize ElasticSearch querying quality
